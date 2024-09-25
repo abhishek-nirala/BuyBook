@@ -1,0 +1,15 @@
+.main {
+    /* background-color: red; */
+    width: 100vw;
+    padding: 6.5rem;
+}
+
+.container {
+    min-width: 250px;
+    max-width: 100%;
+    /* background-color: brown; */
+    height: 100vh;
+ 
+    border-radius: 2rem;
+    border: 10px 5px solid rgb(4, 82, 185);
+}
