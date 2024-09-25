@@ -1,0 +1,36 @@
+*{
+    margin : 0;
+    box-sizing: border-box;
+}
+
+
+.nav-bar{
+    width: 100vw;
+    height: 50px;
+    background-color: beige;
+    right: 0;
+    display: flex; 
+    
+}
+.head{
+    margin-left: auto;
+    margin-right:250px ;
+}
+.head,ul{
+    display: flex;
+    gap: 34px;
+}
+.head ul{
+    list-style-type: none;
+}
+.head li{
+    padding: 12px;
+    font-size: 1.5rem; 
+    transition: transform 0.3s ease-in-out, color 0.5s ease-in-out; /* Transition transform and color */
+}
+
+.li:hover{
+    transform: scale(1.2);
+    color: rgb(74, 141, 230);
+}
+
