@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "Link": "https://fontanabookshop.com/wp-content/uploads/2020/05/The-48-Laws-of-Power.jpg",
+            "Title": "48 Laws of Power",
+            "author": "Robert Green"
+        },
+        {
+            "Link": "https://upload.wikimedia.org/wikipedia/commons/0/06/Atomic_habits.jpg?20220408104922",
+            "Title": "Atomic Habbits",
+            "author": "James Clear"
+        },
+        {
+            "Link": "https://gleegmjournal.com/wp-content/uploads/2021/04/rich-dad-poor-dad-cover.jpg",
+            "Title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki"
+        },
+        {
+            "Link": "https://i0.wp.com/www.kitabdukan.com/wp-content/uploads/2022/08/The-Subtle-Art-of-Not-Giving-a-Fuck-by-Mark-Manson.jpg",
+            "Title": "The Subtle Art of Not Giving a F*ck  ",
+            "author": "Mark Manson"
+        },
+        {
+            "Link": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439167342/how-to-win-friends-and-influence-people-9781439167342_hr.jpg",
+            "Title": "How To Win Friends and Influence People",
+            "author": "Dale Carnegie"
+        },
+        {
+            "Link": "https://cdn.kobo.com/book-images/8cacc164-4797-47d4-a845-9fe06fbe44fd/1200/1200/False/the-7-habits-of-highly-effective-people-infographics-edition.jpg",
+            "Title": "The 7 Habits of Highly Effective People",
+            "author": "Stephen R. Covey"
+        },
+        {
+            "Link": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781508215547/getting-things-done-9781508215547_hr.jpg",
+            "Title": "Getting Things Done",
+            "author": "David Allen"
+        },
+        {
+            "Link": "https://cdn2.penguin.com.au/covers/original/9780753555163.jpg",
+            "Title": "Essentialism",
+            "author": "Greg McKeown"
+        },
+        {
+            "Link": "https://th.bing.com/th?id=OIP.t8LxwIiWUqZmQC8CIq44vAHaLa&w=201&h=310&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+            "Title": "The Psychology of Money",
+            "author":"Morgan Housal"
+        }
+    ]
+}

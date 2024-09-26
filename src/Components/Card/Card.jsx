@@ -1,10 +1,14 @@
 import "./card.css";
 
-function Card() {
+function Card({ link, tittle, author }) {
   return (
-    <div className="">
+    <div className="container">
       <div className="imgDiv">
-        <img src="" />
+        <img src={link} alt="" />
+      <div className="text">
+        <p>{tittle}</p>
+        <p>{author}</p>
+      </div>
       </div>
     </div>
   );
