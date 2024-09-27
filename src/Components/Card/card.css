@@ -9,7 +9,7 @@
     width: 100%;
     height: 100%;
     border-radius: 15px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.2);
 }
 .text{
     /* border: 3px solid black; */

@@ -7,9 +7,8 @@
 .nav-bar{
     width: 100vw;
     height: 10%;
-    background-color: beige;
     right: 0;
-    display: flex; 
+    /* display: flex;  */
     
 }
 .head{
@@ -17,12 +16,15 @@
     margin-right:250px ;
     border-radius: 50px;
 }
-.head,ul{
+.head{
     display: flex;
+    justify-content: space-between;
     gap: 34px;
 }
 .head ul{
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
 }
 .head li{
     padding: 12px;
@@ -31,7 +33,14 @@
 }
 
 .li:hover{
+    /* display: inline-block; */
     transform: scale(1.2);
     color: rgb(74, 141, 230);
+}
+.head h2{
+    font-size:2rem;
+    text-align: center;
+    margin-left: 5rem;
+    margin-top: .7rem;
 }
 
