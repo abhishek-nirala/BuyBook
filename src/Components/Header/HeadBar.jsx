@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       <nav className="nav-bar">
-        <h2>BookKeeper</h2>
+        <h1>BuyBooks</h1>
       </nav>
     </>
   );
